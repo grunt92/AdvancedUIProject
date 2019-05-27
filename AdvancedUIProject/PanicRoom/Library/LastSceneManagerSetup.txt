@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Plugins/Pupil/Demos/SceneManagement/Calibration Scene.unity
+- path: Assets/TobiiPro/Examples/VRDemo/Scenes/InteractionExample.unity
   isLoaded: 1
   isActive: 1
